@@ -1,2 +1,2 @@
-module PostimagesHelper
+module PostImagesHelper
 end
